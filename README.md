@@ -17,7 +17,7 @@ This project demonstrates how employee data from a spreadsheet can be imported i
 ## Technologies Used
 
 - ServiceNow
-- Microsoft Excel
+- Google spreadsheet
 - Import Sets
 - Transform Maps
 - ServiceNow Reports & Dashboards
